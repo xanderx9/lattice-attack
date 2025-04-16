@@ -158,7 +158,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "-f",
-        default="data.json",
+        default="gen.txt",
         help="File name output",
         metavar="fileout",
     )
