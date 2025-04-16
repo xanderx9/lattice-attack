@@ -250,7 +250,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="ECDSA attack from JSON data file.")
     parser.add_argument(
         "-f",
-        default="data.json",
+        default="latt.txt",
         help="File name input",
         metavar="filein",
     )
